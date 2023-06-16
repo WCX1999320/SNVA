@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d92652a-5117-408d-8c9b-cbde7cb57fd8" name="Changes" comment="" />
+    <list default="true" id="6d92652a-5117-408d-8c9b-cbde7cb57fd8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Java-Tommy/src/Java2/Dowhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Tommy/src/Java2/Forloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Tommy/src/Java2/Recipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Tommy/src/Java2/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +22,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -32,6 +41,7 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="2RIlpMRYtvi8z5fKZC396yCYDOk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,6 +53,7 @@
     <property name="javascript.nodejs.core.library.configured.version" value="16.14.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="16.11.26" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -76,11 +87,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686945659950</updated>
-      <workItem from="1686945661760" duration="301000" />
+      <workItem from="1686945661760" duration="1827000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
