@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d92652a-5117-408d-8c9b-cbde7cb57fd8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java-Tommy/src/Java2/Dowhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Tommy/src/Java2/Forloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Tommy/src/Java2/Recipe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Tommy/src/Java2/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Tommy/src/Java3/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Tommy/src/Java3/BoxingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Tommy/src/Java3/Classtest1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686945659950</updated>
-      <workItem from="1686945661760" duration="1827000" />
+      <workItem from="1686945661760" duration="2553000" />
     </task>
     <servers />
   </component>
