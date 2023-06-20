@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 
-    public class MiniProject {
+    public class IceCreamShop {
 
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
@@ -111,4 +111,3 @@ import java.util.Scanner;
 
     }
 
-}
