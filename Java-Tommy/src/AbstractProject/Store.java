@@ -26,7 +26,7 @@ public class Store {
                 for (int i = 0; i < availableItems.length; i++) {
                     System.out.println((i + 1) + ". " + availableItems[i].name + " - $" + availableItems[i].price);
                 }
-                System.out.println("Enter the item number to buy:");
+                System.out.println("Enter the item number to buy");
                 int itemNumber = scanner.nextInt();
                 if (itemNumber >= 1 && itemNumber <= availableItems.length) {
                     Electronic selected = availableItems[itemNumber - 1];
